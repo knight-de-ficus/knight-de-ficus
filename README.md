@@ -2,24 +2,31 @@
 <h3 align="center">view my site: <a href="https://knight-de-ficus.github.io">here</a></h4>
 
 
-现担任网络安全工程师，从事风险管理、逆向工作。
+>  我是网络安全工程师，从事风险管理、逆向工程工作。
+>  
+> I am a Cybersecurity Engineer, currently focusing on Risk Management and Reverse Engineering.
 
-I am a Cybersecurity Engineer, currently focusing on Risk Management and Reverse Engineering.
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knight-de-ficus&size_weight=0.5&count_weight=0.5) -->
 
-![Assembly](https://img.shields.io/badge/Assembly-red?style=plastic)
-![C++](https://img.shields.io/badge/C%2B%2B-yellow?style=plastic&logo=C%2B%2B&logoColor=white)
-![python](https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-black?style=plastic&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-orange?style=plastic&logo=csswizardry&logoColor=white)
+## 技术栈 Skill Stack
 
-## 职业路径Career Roadmap
+|  <img style="height:64px;" src="./badges/cplusplus.svg" />   | <img style="height:64px;" src="./badges/python.svg" /> | <img style="height:64px;" src="./badges/typescript.svg" /> | <img style="height:64px;" src="./badges/metasploit.svg" /> | <img style="height:64px;" src="./badges/react.svg" /> |    <img style="height:64px;" src="./badges/css.svg" />    |
+| :----------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------------------: |
+|                             C++                              |                         Python                         |                         Typescript                         |                         Metasploit                         |                         React                         |                            CSS                            |
+| <img style="height:64px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" /> | <img style="height:64px;" src="./badges/huawei.svg" /> |   <img style="height:64px;" src="./badges/jekyll.svg" />   |    <img style="height:64px;" src="./badges/HTML.svg" />    | <img style="height:64px;" src="./badges/nginx.svg" /> | <img style="height:64px;" src="./badges/nextdotjs.svg" /> |
+|                             Java                             |                      OpenHarmony                       |                           Jekyll                           |                           HTML5                            |                         Nginx                         |                          Next.js                          |
 
-### 🏹证书Certifications
+
+
+
+## 职业路径 Career Roadmap
+
+### 🏹证书 Certificationss
 
 - [x] ITIL Foundation
 - [ ] CISSP
 
-### 🔌安全技术Hack Everything
+### 🔌安全技术 Hack Everything
 
 - [ ] Web 网络 
 - [x] Reverse 逆向
@@ -27,7 +34,7 @@ I am a Cybersecurity Engineer, currently focusing on Risk Management and Reverse
 - [ ] Crypto 加密
 - [ ] Mobile 移动端
 
-### 💻开发Program Develop
+### 💻开发 Program Develop
 
 - [x] 高级语言：流水的程序员，普通的黑客。
 - [ ] 汇编语言：程序员中的人上人、黑客中的佼佼者。给个汇编器就能黑！
