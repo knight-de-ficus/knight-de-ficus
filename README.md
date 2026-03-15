@@ -1,6 +1,7 @@
 <h1 align="center">Knight Fang</h1>
-<h3 align="center">view my site: <a href="https://knight-de-ficus.github.io">here</a></h4>
+<h4 align="center">view my site: <a href="https://knight-de-ficus.github.io">here</a></h4>
 
+<br>
 
 >  我是网络安全工程师，从事风险管理、逆向工程工作。
 >  
@@ -10,11 +11,11 @@
 
 ## 技术栈 Skill Stack
 
-|  <img style="height:64px;" src="./badges/cplusplus.svg" />   | <img style="height:64px;" src="./badges/python.svg" /> | <img style="height:64px;" src="./badges/typescript.svg" /> | <img style="height:64px;" src="./badges/metasploit.svg" /> | <img style="height:64px;" src="./badges/react.svg" /> |    <img style="height:64px;" src="./badges/css.svg" />    |
-| :----------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------------------: |
-|                             C++                              |                         Python                         |                         Typescript                         |                         Metasploit                         |                         React                         |                            CSS                            |
-| <img style="height:64px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" /> | <img style="height:64px;" src="./badges/huawei.svg" /> |   <img style="height:64px;" src="./badges/jekyll.svg" />   |    <img style="height:64px;" src="./badges/HTML.svg" />    | <img style="height:64px;" src="./badges/nginx.svg" /> | <img style="height:64px;" src="./badges/nextdotjs.svg" /> |
-|                             Java                             |                      OpenHarmony                       |                           Jekyll                           |                           HTML5                            |                         Nginx                         |                          Next.js                          |
+|  <img style="height:64px;" src="./badges/cplusplus.svg" />   | <img style="height:64px;" src="./badges/python.svg" /> | <img style="height:64px;" src="./badges/typescript.svg" /> | <img style="height:64px;" src="./badges/metasploit.svg" /> |   <img style="height:64px;" src="./badges/mysql.svg" />   |
+| :----------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------: |
+|                             C++                              |                         Python                         |                         Typescript                         |                         Metasploit                         |                           MySQL                           |
+| <img style="height:64px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" /> | <img style="height:64px;" src="./badges/huawei.svg" /> |   <img style="height:64px;" src="./badges/jekyll.svg" />   |   <img style="height:64px;" src="./badges/nginx.svg" />    | <img style="height:64px;" src="./badges/nextdotjs.svg" /> |
+|                          Kali Linux                          |                      OpenHarmony                       |                           Jekyll                           |                           Nginx                            |                          Next.js                          |
 
 
 
@@ -28,7 +29,7 @@
 
 ### 🔌安全技术 Hack Everything
 
-- [ ] Web 网络 
+- [ ] Web 网络
 - [x] Reverse 逆向
 - [ ] Pwn 二进制
 - [ ] Crypto 加密
